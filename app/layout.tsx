@@ -32,9 +32,7 @@ export const metadata: Metadata = {
         type: 'image/svg+xml',
       },
     ],
-    shortcut: [
-     '/favicon-v2.png',
-    ],
+    icon: '/favicon.png',
   },
 }
 
